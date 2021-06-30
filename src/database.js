@@ -5,7 +5,8 @@ module.exports = {
     "birthday": "10-18"
   },
   "2": {
-    "name": "Flerp Derp",
+    "name": "Sedan Car",
+    "description": "ThisElectric Car pays 260 Earn tokens every week to NFT holder."
     "birthday": "01-08"
   },
   "3": {
