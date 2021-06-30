@@ -28,6 +28,7 @@ app.get('/api/token/:token_id', function(req, res) {
     'name': person.name,
     'attributes': {
       'background_color': '000000',
+      'description': person.description,
       'birthday': person.birthday,
       'birth month': monthName(month),
       'zodiac sign': zodiac(day, month),
