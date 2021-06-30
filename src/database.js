@@ -1,6 +1,7 @@
 module.exports = {
   "1": {
-    "name": "Chunky Monkey",
+    "name": "Electric Car",
+    "description": "ThisElectric Car pays 60 Earn tokens every week to NFT holder."
     "birthday": "10-18"
   },
   "2": {
