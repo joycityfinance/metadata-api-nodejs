@@ -26,9 +26,9 @@ app.get('/api/token/:token_id', function(req, res) {
   const month = parseInt(bdayParts[0])
   const data = {
     'name': person.name,
+    'description': person.description,
     'attributes': {
       'background_color': '000000',
-      'description': person.description,
       'birthday': person.birthday,
       'birth month': monthName(month),
       'zodiac sign': zodiac(day, month),
