@@ -26,15 +26,15 @@ app.get('/api/token/:token_id', function(req, res) {
   const month = parseInt(bdayParts[0])
   const data = {
     'name': person.name,
-    'description': person.description,
-    'image': `${HOST}/images` + attributes["img"],
-    'background_color': '000000',
     'attributes': {
+      'background_color': '000000',
+      'description': person.description,
       'birthday': person.birthday,
       'birth month': monthName(month),
-      'zodiac sign': zodiac(day, month)
+      'zodiac sign': zodiac(day, month),
       // 'age': moment().diff(person.birthday, 'years')
     },
+    'image': `${HOST}/images/${tokenId}.png`
   }
   res.send(data)
 })
