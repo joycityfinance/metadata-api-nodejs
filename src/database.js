@@ -22,8 +22,6 @@ module.exports = {
     "external_url": "https://yearncity.herokuapp.com/images/1003.png",
     "image": "https://yearncity.herokuapp.com/images/1003.png",
     "name": "Big Van",
-    
-    "birthday": "03-04"
   },
   "1004": {
     "description": "This Yearn City Big Buss pays 937.5 EARN tokens every week to NFT holder.",
