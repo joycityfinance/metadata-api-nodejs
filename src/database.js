@@ -7,8 +7,8 @@ module.exports = {
   },
   "1002": {
     "description": "This Yearn City Sedan Car pays 135 EARN tokens every week to NFT holder.",
-    "external_url": "https://yearncity.herokuapp.com/images/1001.png",
-    "image": "https://yearncity.herokuapp.com/images/1001.png",
+    "external_url": "https://yearncity.herokuapp.com/images/1017.png",
+    "image": "https://yearncity.herokuapp.com/images/1017.png",
     "name": "Sedan Car"
   },
   "1017": {
