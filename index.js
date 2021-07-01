@@ -32,7 +32,7 @@ app.get('/api/token/:token_id', function(req, res) {
     'attributes': {
       'birthday': person.birthday,
       'birth month': monthName(month),
-      'zodiac sign': zodiac(day, month),
+      'zodiac sign': zodiac(day, month)
       // 'age': moment().diff(person.birthday, 'years')
     },
   }
