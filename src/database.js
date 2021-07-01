@@ -14,12 +14,12 @@ module.exports = {
     "description": "This Yearn City Sports Car pays 375 EARN tokens every week to NFT holder.",
     "birthday": "01-22"
   },
-  "1004": {
+  "1003": {
     "name": "Big Van",
     "description": "This Yearn City Big Van pays 550 EARN tokens every week to NFT holder.",
     "birthday": "03-04"
   },
-  "1005": {
+  "1004": {
     "name": "Big Buss",
     "description": "This Yearn City Big Buss pays 937.5 EARN tokens every week to NFT holder.",
     "birthday": "03-09"
