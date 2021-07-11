@@ -12,10 +12,10 @@ module.exports = {
     "name": "Grand Jeep"
   },
   "1002": {
-    "description": "Joy City Blue Mini pays 375 JOY tokens weekly to NFT holder.",
+    "description": "Joy City Mini Coop pays 375 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1002.png",
     "image": "https://joycity.herokuapp.com/images/1002.png",
-    "name": "Blue Mini"
+    "name": "Mini Coop"
   },
   "1003": {
     "description": "Joy City Blue Rally pays 550 JOY tokens weekly to NFT holder.",
