@@ -30,10 +30,10 @@ module.exports = {
     "name": "Black Sports"
   },
   "1005": {
-    "description": "Joy City Gas Pump pays 8,250 JOY tokens weekly to NFT holder.",
+    "description": "Joy City Gas Station pays 8,250 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1005.png",
     "image": "https://joycity.herokuapp.com/images/1005.png",
-    "name": "Gas Pump"
+    "name": "Gas Station"
   },
   "1007": {
     "description": "Joy City Ride Wash pays 3,000 JOY tokens weekly to NFT holder.",
