@@ -1,5 +1,5 @@
 module.exports = {
-  "1000": {
+  "%0FB@": {
     "description": "Joy City Ice Cream Mini pays 60 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1000.png",
     "image": "https://joycity.herokuapp.com/images/1000.png",
