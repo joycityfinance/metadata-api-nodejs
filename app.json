@@ -1,7 +1,7 @@
 {
   "name": "Joy City Metadata API for NFTs",
   "description": "Joy City metadata API for assets",
-  "repository": "https://github.com/ProjectOpenSea/metadata-api-nodejs",
+  "repository": "https://github.com/joycityfinance/metadata-api-nodejs/",
   "logo": "https://raw.githubusercontent.com/joycityfinance/joycity/master/src/assets/JOY256.png",
   "keywords": ["nft", "crypto", "opensea", "erc721", "erc1155", "node", "express", "defi"]
 }
