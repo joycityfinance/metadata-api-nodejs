@@ -36,22 +36,22 @@ module.exports = {
     "name": "Gas Station"
   },
   "1007": {
-    "description": "Joy City Ride Wash pays 3,000 JOY tokens weekly to NFT holder.",
+    "description": "Joy City Car Wash pays 3,000 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1006.png",
     "image": "https://joycity.herokuapp.com/images/1006.png",
-    "name": "Ride Wash"
+    "name": "Car Wash"
   },
   "1015": {
-    "description": "Joy City Ride Rental pays 2,100 JOY tokens weekly to NFT holder.",
+    "description": "Joy City Car Rental pays 2,100 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1007.png",
     "image": "https://joycity.herokuapp.com/images/1007.png",
-    "name": "Ride Rental"
+    "name": "Car Rental"
   },
   "1016": {
-    "description": "Joy City Mechanic pays 3,750 JOY tokens weekly to NFT holder.",
+    "description": "Joy City Car Repair pays 3,750 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1008.png",
     "image": "https://joycity.herokuapp.com/images/1008.png",
-    "name": "Mechanic"
+    "name": "Car Repair"
   },
   "1006": {
     "description": "Joy City Power Station pays 6,500 JOY tokens weekly to NFT holder.",
