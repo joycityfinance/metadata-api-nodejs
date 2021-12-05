@@ -2,31 +2,32 @@ module.exports = {
   "1000": {
     "description": "Joy City Ice Cream Mini pays 60 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1000.png",
-    "animation_url": "https://joycity.finance/ar/joycityGLB/asset1.glb",
+    "image": "https://joycity.herokuapp.com/images/1000.png",
     "name": "Ice Cream Mini"
   },
   "1001": {
     "description": "Joy City Grand Jeep pays 135 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1001.png",
-    "animation_url": "https://joycity.finance/ar/joycityGLB/asset2.glb",
+    "image": "https://joycity.herokuapp.com/images/1001.png",
     "name": "Grand Jeep"
+    "animation_url": "view-source:https://joycity.finance/ar/joycityGLB/assetl.glb"
   },
   "1002": {
     "description": "Joy City Mini Coop pays 375 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1002.png",
-    "animation_url": "https://joycity.finance/ar/joycityGLB/asset3.glb",
+    "image": "https://joycity.herokuapp.com/images/1002.png",
     "name": "Mini Coop"
   },
   "1003": {
     "description": "Joy City Blue Rally pays 550 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1003.png",
-    "animation_url": "https://joycity.finance/ar/joycityGLB/asset4.glb",
+    "image": "https://joycity.herokuapp.com/images/1003.png",
     "name": "Blue Rally"
   },
   "1004": {
     "description": "Joy City Black Sports pays 937.5 JOY tokens weekly to NFT holder.",
     "external_url": "https://joycity.herokuapp.com/images/1004.png",
-    "animation_url": "https://joycity.finance/ar/joycityGLB/asset5.glb",
+    "image": "https://joycity.herokuapp.com/images/1004.png",
     "name": "Black Sports"
   },
   "1005": {
