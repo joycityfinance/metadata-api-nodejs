@@ -10,7 +10,6 @@ module.exports = {
     "external_url": "https://joycity.herokuapp.com/images/1001.png",
     "image": "https://joycity.herokuapp.com/images/1001.png",
     "name": "Grand Jeep"
-    "animation_url": "view-source:https://joycity.finance/ar/joycityGLB/assetl.glb"
   },
   "1002": {
     "description": "Joy City Mini Coop pays 375 JOY tokens weekly to NFT holder.",
