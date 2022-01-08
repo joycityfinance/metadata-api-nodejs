@@ -1,7 +1,9 @@
 {
-  "name": "Joy City Metadata API for NFTs",
-  "description": "Joy City metadata API for assets",
+  "name": "Joy City",
+  "description": "Joy City Is A Non Fungible Asset Protocol that pays when you Invest in virtual city assets.",
+  "external_link": "https://joycity.finance",
   "repository": "https://github.com/joycityfinance/metadata-api-nodejs/",
-  "logo": "https://raw.githubusercontent.com/joycityfinance/joycity/master/src/assets/JOY256.png",
-  "keywords": ["nft", "crypto", "opensea", "erc721", "erc1155", "node", "express", "defi"]
+  "image": "https://raw.githubusercontent.com/joycityfinance/joycity/master/src/assets/JOY256.png",
+  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+  "fee_recipient": "0x742c6aFf3cC30E6AC1576aaAade52d356E4C85B4"
 }
