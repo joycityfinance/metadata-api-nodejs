@@ -4,6 +4,6 @@
   "external_link": "https://joycity.finance",
   "repository": "https://github.com/joycityfinance/metadata-api-nodejs/",
   "image": "https://raw.githubusercontent.com/joycityfinance/joycity/master/src/assets/JOY256.png",
-  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+  "seller_fee_basis_points": 250,
   "fee_recipient": "0x742c6aFf3cC30E6AC1576aaAade52d356E4C85B4"
 }
